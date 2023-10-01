@@ -151,7 +151,21 @@ const commander = (cmd) => {
       loopLines(banner, "", 80);
       break;
     case "cv":
-      addLine("Download  CV...", "color2", 0);
+      setTimeout(() => {
+        terminal.innerHTML = '<a id="before"></a>';
+        before = document.getElementById("before");
+      }, 1);
+      addLine("Print CV...", "color2", 60);
+      loopLines(cv, "", 80);
+      break;
+    case "dowcv":
+      addLine("Downloader CV...", "color2", 0);
+      let link = document.createElement("a");
+      link.href = "CV-Bejtan-Grzegorz.txt";
+      link.download = "CV-Bejtan-Grzegorz.txt".substr(
+        "CV-Bejtan-Grzegorz.txt".lastIndexOf("/") + 1
+      );
+      link.click();
       break;
     case "linkedin":
       addLine("Opening LinkedIn...", "color2", 0);
@@ -162,7 +176,9 @@ const commander = (cmd) => {
       newTab(github);
       break;
     default:
-      const item = list.filter((item) => item.name == cmd.toLowerCase());
+      const item = list.filter(
+        (item) => item.name.toLowerCase() == cmd.toLowerCase()
+      );
       if (item.length > 0) {
         addLine(`Opening GitHub/${item[0].name}...`, "color2", 0);
         newTab(item[0].url);
