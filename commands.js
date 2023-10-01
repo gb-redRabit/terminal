@@ -37,7 +37,7 @@ help = [
   '<span class="command">whoami</span><span class="link">Who am I?</span>', //dokończyć opis
   '<span class="command">social</span><span class="link">Display social networks</span>', // pozmieniąć linki
   '<span class="command">secret</span><span class="link">Find the password</span>', // rozbudować sekret dodać efekt wirusa
-  '<span class="command">projects</span><span class="link">View coding projects</span>', // stworzyć fukcje wipisujaca projekty
+  '<span class="command">projects</span><span class="link">View coding projects</span>',
   '<span class="command">cv</span><span class="link">Download CV</span>', //dodać
   '<span class="command">history</span><span class="link">View command history</span>',
   '<span class="command">help</span> <span class="link"> You obviously already know what this does</span>',
