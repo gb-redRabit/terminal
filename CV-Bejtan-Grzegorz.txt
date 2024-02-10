@@ -9,11 +9,21 @@
 
         # Kodowanie kreatywne # Projektowanie stron # Wizualizacja danych # Projektowanie informacji #
  
-  /¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯",
+/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯",
 
-  Jestem osobą doświadczoną na bardzo wielu stanowiskach pracy.
+    Jestem osobą, która kocha tworzenie stron internetowych i poświęca im dużo czasu i energii.
+    W wolnej chwili nieustannie staram się poszerzać swoją wiedzę w tym zakresie, czytając artykuły,
+    oglądając kursy i uczestnicząc w projektach, które są dla mnie źródłem satysfakcji i rozwoju.
+    Na GitHubie posiadam kilka repozytoriów, w których używam głównie języków JavaScript, HTML i CSS,
+    które są niezbędne do tworzenia stron internetowych, oraz framework JS takich jak Vue.js, React.js oraz Electron.js,
+    które umożliwiają tworzenie zaawansowanych, nowoczesnych i przyjaznych aplikacji webowych, zarówno dla przeglądarek,
+    jak i dla systemów operacyjnych, oraz framework CSS Bootstrapa czy też Tailwind, które zapewniają tworzenie
+    atrakcyjnych i dostosowanych interfejsów użytkownika. Posiadam doświadczenie w różnych pracach, takich jak magazynier,
+    operator sterylizacji, menadżer restauracji i praktykant programista, które dały mi cenne doświadczenia,
+    takie jak organizacja pracy, komunikacja z ludźmi, rozwiązywanie problemów, kreatywność i praca zespołowa.
 
-  ### Edukacja i praca ###
+
+### Edukacja i praca ###
  
   Zespół Szkół Ponadgimnazjalnych  <------| 2011 |
      nr. 1 im. Noblistów Polskich         |      |
@@ -30,6 +40,7 @@
                                           | 2023 |-> Operator procesu sterylizacji -  CitoNet (4) 
                                           | 2024 |
 
+  !!! Wybrane tylko niektóre !!!
   (1) - Tworzenie strony internetowej oraz aplikacji z użyciem .NET Framework oraz Bootstrapa 
   (2) - Prowadzenie ciągłości działania restauracji, konserwacja maszyn , dbanie o 
   jakość produktu oraz robienie zamówie
@@ -38,13 +49,13 @@
   (4) - Przyjmowanie materiału medycznego, dezynfekcja, sterylizacja i wydanie go
   monitorowanie przebiegów procesów, oraz pomoc przy prowadzeniu zmiany
 
-  ### Umiejętności techniczne ###
+### Umiejętności techniczne ###
 
   - Git, Github, Netlify, Visual Studio, Vscode, Postman
   - Html, Css, Sass, Bootstrap, Tailwind, Emotion
   - Javascript, Jquery, Webpack, Babel, React, Vue, Electron
  
-  ### Umiejętności miękkie ###
+### Umiejętności miękkie ###
  
   - Komunikatywność
   - Współpraca
@@ -53,7 +64,7 @@
   - Ciekawość i zaradność
   - Potrzeba ciągłego rozwoju 
 
-  ### Zainteresowania ###
+### Zainteresowania ###
 
   - Nowinki technologiczne
   - Programowanie
