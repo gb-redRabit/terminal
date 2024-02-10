@@ -1,90 +1,63 @@
-                                 ____        _ _                 ____                                   
-                                | __ )  ___ (_) |_ __ _ _ __    / ___|_ __ _______  __ _  ___  _ __ ____
-                                |  _ \ / _ \| | __/ _` | '_ \  | |  _| '__|_  / _ \/ _` |/ _ \| '__|_  /
-                                | |_) |  __/| | || (_| | | | | | |_| | |   / /  __/ (_| | (_) | |   / / 
-                                |____/ \___|/ |\__\__,_|_| |_|  \____|_|  /___\___|\__, |\___/|_|  /___|
-                                          |__/                                     |___/                
+<----------------------------------------------------------------------------------------------------------------------->
+                    ____        _ _                 ____                                   
+                   | __ )  ___ (_) |_ __ _ _ __    / ___|_ __ _______  __ _  ___  _ __ ____
+                   |  _ \ / _ \| | __/ _` | '_ \  | |  _| '__|_  / _ \/ _` |/ _ \| '__|_  /
+                   | |_) |  __/| | || (_| | | | | | |_| | |   / /  __/ (_| | (_) | |   / / 
+                   |____/ \___|/ |\__\__,_|_| |_|  \____|_|  /___\___|\__, |\___/|_|  /___|
+                             |__/                                     |___/                
+            Grzegorz Bejtan | bejtan.grzegorz@gmail.com | 509 817 144 | github.com/gb-redRabit 
 
-       bejtan.grzegorz@gmail.com /∆ 509 817 144 /∆ github.com/gb-redRabit /∆ linkedin.com/in/grzegorz-bejtan-bb4a67198/
+        # Kodowanie kreatywne # Projektowanie stron # Wizualizacja danych # Projektowanie informacji #
+ 
+  /¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯",
 
-                 # Kodowanie kreatywne # Projektowanie stron # Wizualizacja danych # Projektowanie informacji #
+  Jestem osobą doświadczoną na bardzo wielu stanowiskach pracy.
 
-/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯\_/¯
+  ### Edukacja i praca ###
+ 
+  Zespół Szkół Ponadgimnazjalnych  <------| 2011 |
+     nr. 1 im. Noblistów Polskich         |      |
+        Spec.: Technik informatyk         |      |
+                                          | 2014 |-> Praktyki - Infocity (1)
+                                          |      |
+                                          |      |
+                                          | 2017 |-> Menadżer Restauracji - Amrest (2)
+                                          |      |
+                                          |      |
+                                          | 2020 |-> Pracownik magazynowy - AMAZON (3)
+  JAVASCRIPT & REACT - FutureCollars <----| 2021 |
+                                          |      |
+                                          | 2023 |-> Operator procesu sterylizacji -  CitoNet (4) 
+                                          | 2024 |
 
-Hello and thank you for opening my readme, which also happens to be my resume. 
-I am currently a Communication Design student at the Master course of IUAV University of Venice, and an aspiring Interaction designer.
-I am currently looking for an internship in Europe.
+  (1) - Tworzenie strony internetowej oraz aplikacji z użyciem .NET Framework oraz Bootstrapa 
+  (2) - Prowadzenie ciągłości działania restauracji, konserwacja maszyn , dbanie o 
+  jakość produktu oraz robienie zamówie
+  (3) - Przyjmowanie oraz pakowanie produktów do wysyłki, oraz pełniłem funkcję krytyczną, czyli
+  rozwiązywałem problemy z produktami, oraz wyszukiwanie informacji o produktach.
+  (4) - Przyjmowanie materiału medycznego, dezynfekcja, sterylizacja i wydanie go
+  monitorowanie przebiegów procesów, oraz pomoc przy prowadzeniu zmiany
 
-                                              
-### Education and selected works ###
+  ### Umiejętności techniczne ###
 
- Scientific high school degree ----------| 2007 |             LEGENDA: fields 
-                                         |      |                 ~ Sound design
- Mechatronics engineering |--------------| 2008 |                 / Programming
-         Padua University |              |      |                 x Interaction design
-                        / |              | 2009 |                 # Video / animation
-                                         |      |                 ∆ Information design
- Music and new Technologies |------------| 2010 |                 • Graphic / Visual design
-       Vicenza Conservatory |            |      |
-                    ~ / x # |            | 2011 |------------------------------------------01-| FluendoCrescente ~~~~ ////
-                            |            |      |
-First level academic dipoma |------------| 2012 |-----------------------------------------------02-| R.E.M. ~~~~~ ///// xx
-Master course: Communication Design |----|      |
-          IUAV University of Venice |    | 2013 |-----------------03-| Les Invocations du Vide [thesis] ~~~~~~ ///// xxxxx
-                          / x # ∆ • |    |      |-----------------------------------------04-| SpaceSonic IV //////// xxxx
-                                         |      |--------------------------------------05-| Social Dinner ////// xxxxxx ##
-                                         |      |--------------------------------------------------06-| PASSWORD* ########
-                                         |      |------------------------------------------07-| Words in a Day ∆∆∆∆ /// ••
-                                         |      |
-                                         | 2014 |-------------------------08-| Agorà interactive installation //// ••• xxx
-                                         |      |-----------09-| Atlas of Contemporary Technology - Vanishing ∆∆∆∆∆ •••• /
-                                         |      |-10-| Deep into the animal exctinction - visualization ∆∆∆∆ //// xxxx ••• 
-                                         |      |-----------11-| Deep into the animal exctinction - sonification ~~~~~ ///
-                                         |      |--------------------------------12-| A matter of Dimensions ###### •• ~~~
-                                         |      |-------------------------------13-| The Structure - by RedBull /// xxx ~~ 
-                                         |      |
-                                         |      |
-                                         | 2015 |-------14-| Atlas of Contemporary Networks - Interplanetary ∆∆∆∆∆∆ •••• /
-                                         |      |-----------------------------------------15-| @AtlasDSN ////// xxx # ∆∆ •
-                                         |      |
+  - Git, Github, Netlify, Visual Studio, Vscode, Postman
+  - Html, Css, Sass, Bootstrap, Tailwind, Emotion
+  - Javascript, Jquery, Webpack, Babel, React, Vue, Electron
+ 
+  ### Umiejętności miękkie ###
+ 
+  - Komunikatywność
+  - Współpraca
+  - Kreatywność
+  - Elastyczność
+  - Ciekawość i zaradność
+  - Potrzeba ciągłego rozwoju 
 
->01- First electronic music piece I composed and realized. All sounds were synthezied by programming in Csound.
->02- Music piece for double bass and live electronics, all the sound treatments were in real time and controlled by the sound from the instrument.
->03- Music piece for a singer/performer and live electronics. The real time elaborations on the voice are controlled by the movements of the performer.
->04- Max/MSP software to control and play music in a four-room environment, with spatialization and a control interface designed for iPad.
->05- Visual installation for the Syracuse film festival. The audience controlled a live version of “The last dinner” with their hands.
->06- Design, realization and live direction for the visual side of a fashion show.
->07- data visualization about the words a student writes while preparing the exams
->08- Live projection that reacts to the people passing by.
->09- “Vanishing” chapter for the illustrated “Atlas of Contemporary Technology”, from the research to the drawings and visualizations.
->10- Interactive adata visualization to give a glimpse of all endangered animal species. [featured on Leap Motion website]
->11- Music piece generated by the history of the Red List of endangered species. [featured on Cycling ‘74 website]
->12- Animation short movie.
->13- Interactive and immersive installation sponsored by RedBull for the Robot festival in Bologna.
->14-“Interplanetary” chapter for the illustrated “Atlas of Contemporary networks”, from the research to the drawings and visualizations.
->15- An interactive installation about what “if you could communicate with spacecrafts via Twitter through the NASA Deep Space Network?”
+  ### Zainteresowania ###
 
+  - Nowinki technologiczne
+  - Programowanie
+  - Gotowanie (kuchnia Azjatycka)
+  - Gry karciane w szczególności 1000 oraz planszowe
 
-### Software Skills ###
-                                  |¯¯\                               __                               ______
-  ####    Cycling '74             |__/                              |__|__                           |      |  Adobe
-    #     Max/MSP/Jitter          |        Processing                  |__|   Nodebox                |  Au  |  Audition
-   #                              | • •                                                              |______|
-
-
-                                                                    _______ 
- ______                            //|¯|                           | /¯¯¯\ |                          ______ 
-|      |  Adobe                   // | |   Resolume                |(     )|  Apple                  |      |  Adobe
-|  Pr  |  Premiere Pro            ===| |=  Arena                   | \___/ |  Logic Pro              |  Ae  |  After Effects
-|______|                             |_|                           |  ===  |                         |______|
-                                                                   |_______|
-                                   
-
- ______                           OOOO••                            ______                            ______  
-|      |  Adobe                  OOO••••O  MAXON                   |      |   Adobe                  |      |  Adobe
-|  Ai  |  Illustrator            OOOO••OO  Cinema4D                |  Ps  |   Photoshop              |  Id  |  InDesign
-|______|                           OOOO                            |______|                          |______|
-
-
-                                                                                           Made with care and Sublime Text 2
-<----------------------------------------------------------  EOF  --------------------------------------------------------->
+  <-------------------------------------------------------------------------------------------------------------------->
